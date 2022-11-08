@@ -1,3 +1,5 @@
+This is a marketplace app. This is supported by Laravel Web app and api as backend.
+
 # flutter_unimaxSystems_ecommerce
 
 A new Flutter setup application for starting a project.
